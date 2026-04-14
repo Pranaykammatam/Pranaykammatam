@@ -76,4 +76,5 @@ I am actively seeking opportunities as a **Data Analyst** where I can apply my a
 
 ## 📫 Let's Connect
 
-Feel free to explore my repositories and reach out for collaboration or opportunities in Data Analytics.
+Feel free to reach out for collaboration or opportunities in Data Analytics.
+https://www.linkedin.com/in/pranay-kammatam-3213335b/
